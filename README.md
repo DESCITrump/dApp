@@ -3,7 +3,7 @@
 # Decentralized Science (DeSci) dApp
 
 ## Overview
-This project is a **Proof of Concept (PoC)** decentralized application (dApp) built on the **Solana blockchain** to reimagine the scientific publishing and peer-review ecosystem. By leveraging decentralized technologies, the DeSci dApp empowers scientists, democratizes the peer-review process, and provides financial incentives for contributors. 
+This project is a **Proof of Concept (PoC)** decentralized application (dApp) built on the **BSC blockchain** to reimagine the scientific publishing and peer-review ecosystem. By leveraging decentralized technologies, the DeSci dApp empowers scientists, democratizes the peer-review process, and provides financial incentives for contributors. 
 
 ## Key Features
 1. **Decentralized Publishing**:
@@ -20,7 +20,7 @@ This project is a **Proof of Concept (PoC)** decentralized application (dApp) bu
    - Enables researchers to monetize impactful work without intermediaries.
 
 4. **Personal Scientist APIs**:
-   - A **Solana Blink** creates personalized APIs for each scientist.
+   - A **BSC Blink** creates personalized APIs for each scientist.
    - Facilitates tipping, voting, and tracking of individual contributions.
 
 ## Motivation
@@ -33,15 +33,15 @@ The traditional scientific publishing model has significant drawbacks:
 The DeSci dApp addresses these challenges through a blockchain-powered ecosystem.
 
 ## Technology Stack
-- **Blockchain**: [Solana](https://solana.com/)
-- **Frontend**: React.js with Solana Web3.js integration.
+- **Blockchain**: [BSC](https://BSC.com/)
+- **Frontend**: React.js with BSC Web3.js integration.
 - **Backend**: Rust-based smart contracts with Anchor framework.
-- **APIs**: Solana Blinks for user-specific interactions.
+- **APIs**: BSC Blinks for user-specific interactions.
 
 ## How It Works
 1. **Publishing**:
    - Authors submit their papers to the decentralized journal.
-   - Papers are stored immutably on the Solana blockchain.
+   - Papers are stored immutably on the BSC blockchain.
 
 2. **Reviewing**:
    - Reviewers stake tokens to submit feedback on papers.
@@ -49,7 +49,7 @@ The DeSci dApp addresses these challenges through a blockchain-powered ecosystem
 
 3. **Tipping**:
    - Scientists, projects, or specific papers can receive direct financial support through the platform.
-   - Supporters can tip using Solana-native tokens.
+   - Supporters can tip using BSC-native tokens.
 
 4. **Funding**:
    - The platform allows crowdfunding for scientific projects, promoting grassroots research initiatives.
